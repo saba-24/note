@@ -141,4 +141,4 @@ app.get('/info',
         )
     })
 
-app.listen(port, '192.168.1.31')
+app.listen(port, 'https://noteapp-601502826506.europe-central2.run.app/')
